@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
+
+        <link rel="stylesheet" href="css/icon-font.css">
+        <link rel="stylesheet" href="trials.css"> 
+        <link rel="shortcut icon" type="image/png" href="favicon.png">
+
+        <title>Natours | Exciting tours for adventurous people</title>
+    </head>
+    <body>
+      <body>
+        <header class="header">
+          <div class="header__logo-box">
+            <img src="logo-white.png" class="header__logo">
+
+          </div>
+          <div class="text-box">
+            <h1 class="heading">
+              <span class ='heading--main'>outdoors</span>
+              <span class='heading--sub'>is where everything happens</span>
+                </h1>
+              <a href="#" class="btn btn--white btn--animated">Discover our tours</a>
+
+          </div>
+
+</header>
+
+
+<main>
+  <section class="secondary-about">
+    <div class="utility-text-center u-center-8">
+      <h2 class="heading-secondary">
+      exciting tours for adventurours people
+      </h2>
+
+    </div>
+    <div class="row">
+      <div class="col-1-of-2">
+        <h3 class="heading-tertiary u-margin-bottom-2">you're going to fall in love with nature</h3>
+          <p class="paragraph">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea sed nostrum eius veniam quasi illum, in odio! Eligendi soluta vel suscipit repellat enim adipisci doloribus sequi impedit rem, dolores quo?
+          </p>
+        
+      
+      <h3 class="heading-tertiary u-margin-bottom-2">live adventurous like you have never been before</h3>
+        <p class="paragraph">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, beatae a accusantium, ut saepe, debitis in ex molestiae praesentium.
+        </p>
+        <a href="#" class="btn-text">Learn more &rarr;</a>
+      </div>
+      <div class="col-1-of-2"> 
+  
+       <div class="composistion">
+         <img src="nat-1-large.jpg" alt="photo-1" class="composistion__photo composistion__photo--p1">
+         <img src="nat-2-large.jpg" alt="photo-1" class="composistion__photo composistion__photo--p2">
+         <img src="nat-3-large.jpg" alt="photo-1" class="composistion__photo composistion__photo--p3">
+
+       </div>
+      </div>
+    </div>
+
+  </section>
+</main>
+<!--
+<section class="grid-test">
+  <div class="row">
+    <div class="col-1-of-2">
+      col-1-of-2
+    </div>
+    <div class="col-1-of-2"> 
+
+      col-1-of-2
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-1-of-3">
+      1-of-3cols
+    </div>
+    <div class="col-1-of-3"> 
+
+      1-of-3cols
+    </div>
+    <div class="col-1-of-3"> 
+
+      1-of-3cols
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-1-of-3">
+      1-of-3cols
+    </div>
+    <div class="col-2-of-3"> 
+
+      2-of-3cols
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-1-of-4">
+      1-of-4cols
+    </div>
+    <div class="col-1-of-4"> 
+
+      1-of-4cols
+    </div>
+    <div class="col-1-of-4"> 
+
+      1-of-4cols
+    </div>
+    <div class="col-1-of-4"> 
+
+      1-of-4cols
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-1-of-4">
+      1-of-4cols
+    </div>
+    <div class="col-1-of-4"> 
+
+      1-of-4cols
+    </div>
+    <div class="col-2-of-4"> 
+
+      2-of-4cols
+    </div>
+    
+  </div>
+  <div class="row">
+    <div class="col-1-of-4">
+      1-of-4cols
+    </div>
+    <div class="col-3-of-4"> 
+
+      3-of-4cols
+    </div>
+
+  </div>
+
+
+</section>
+-->
+
+
+      </body>
+      </html>
